@@ -1,5 +1,5 @@
 # playing card deck
-Simple card generator
+Simple card generator for javaScript console.
 
 to initialise- myDeck.initialize();
 to shuffle- myDeck.shuffle();
